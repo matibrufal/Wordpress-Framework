@@ -25,3 +25,25 @@ Version: 1.0
 11. Media Queries
 
 */
+
+/* 1. Main Styles */
+
+
+
+/* 11. Media Queries */
+
+@media screen and (min-width: 320px) {
+
+}
+@media screen and (min-width: 480px) {
+
+}
+@media screen and (min-width: 768px) {
+
+}
+@media screen and (min-width: 1024px) {
+
+}
+@media screen and (min-width: 1200px) {
+
+}

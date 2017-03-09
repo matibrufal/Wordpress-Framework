@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 <div class="single blog"><div class="container">
-<div class="responsive">
+
+	
 
 	<section class="content left">
 
@@ -22,8 +23,5 @@
 
 	</section>
 
-	<?php get_sidebar(); ?>
-
-</div>
 </div></div>
 <?php get_footer(); ?>
